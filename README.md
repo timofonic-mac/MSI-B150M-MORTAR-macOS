@@ -1,4 +1,5 @@
-使用Clover+GPT方式安装，已更新到最新的macOS Sierra。
+使用Clover+GPT方式安装，已更新到最新的macOS High Sierra 10.13。
+安装High Sierra时请使用config-to-install-10.13.plist文件。
 
 ### 主机配置：
 | 硬件  | 型号 |
