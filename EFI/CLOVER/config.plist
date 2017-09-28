@@ -113,7 +113,7 @@
 			<true/>
 		</dict>
 		<key>Theme</key>
-			<string>OSS</string>
+			<string>mac_origin</string>
 		<key>ScreenResolution</key>
         	<string>1920x1080</string>
 	</dict>
@@ -191,31 +191,47 @@
 		<string>0x67</string>
 	</dict>
 	<key>SMBIOS</key>
-	<dict>
+  <dict>
 		<key>BiosReleaseDate</key>
-		<string>09/22/15</string>
+		<string>08/08/2017</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>IM171.88Z.0105.B00.1509221819</string>
+		<string>IM183.88Z.0151.B00.1708080034</string>
 		<key>Board-ID</key>
-		<string>Mac-DB15BD556843C820</string>
+		<string>Mac-BE088AF8C5EB4FA2</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
+		<key>BoardSerialNumber</key>
+		<string>C02704902OPF64V1F</string>
+		<key>BoardType</key>
+		<integer>10</integer>
+		<key>BoardVersion</key>
+		<string>iMac18,3</string>
 		<key>ChassisAssetTag</key>
 		<string>iMac-Aluminum</string>
 		<key>ChassisManufacturer</key>
 		<string>Apple Inc.</string>
+		<key>ChassisType</key>
+		<string>0x09</string>
 		<key>Family</key>
 		<string>iMac</string>
+		<key>FirmwareFeatures</key>
+		<string>0xFC0FE136</string>
+		<key>FirmwareFeaturesMask</key>
+		<string>0xFF1FFF3F</string>
+		<key>LocationInChassis</key>
+		<string>Part Component</string>
 		<key>Manufacturer</key>
 		<string>Apple Inc.</string>
-		<key>ProductName</key>
-		<string>iMac17,1</string>
-		<key>SerialNumber</key>
-		<string>C02QFHACGG7L</string>
-		<key>Trust</key>
+		<key>Mobile</key>
 		<false/>
+		<key>PlatformFeature</key>
+		<string>0x00</string>
+		<key>ProductName</key>
+		<string>iMac18,3</string>
+		<key>SerialNumber</key>
+		<string>C02T5YVRJ1GJ</string>
 		<key>Version</key>
 		<string>1.0</string>
 	</dict>
